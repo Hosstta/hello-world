@@ -1,4 +1,2 @@
-# hello-world
-первое хранилище
-первый опыт в ветке
-удачно
+# coin
+Bitcoin by Satoshi Nakamoto with Node Incentivisation and Dynamic Fibonacci block size growth.
